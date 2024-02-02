@@ -1,6 +1,6 @@
-# Team30_CV
+# Team30: Visión computacional para imágenes y videos
 
-Repository that collects the activities of the subject computer vision - TEC
+> Repositorio que contiene las actividades de la materia visión computacional para imágenes y video
 
 **Semana 2:**
 * 2.2. Simple ImgProcessing
@@ -8,4 +8,7 @@ Repository that collects the activities of the subject computer vision - TEC
 
 **Semana 3:**
 * 3.2. Algoritmos de mejoramiento de imágenes en el dominio espacial
+
+**Semana 4:**
+* 4.2. Algoritmos de mejoramiento de imágenes usando operaciones morfológicas.
 
