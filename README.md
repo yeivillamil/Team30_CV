@@ -13,5 +13,8 @@
 * 4.2. Algoritmos de mejoramiento de imágenes usando operaciones morfológicas.
 
 **Semana 5:**
-* 5.3 Google Colab algoritmos de mejoramiento de imágenes en el dominio de Fourier.
+* 5.3. Algoritmos de mejoramiento de imágenes en el dominio de Fourier.
+
+**Semana 6:**
+* 6.4. Extracción de líneas con algoritmo de Canny.
 
