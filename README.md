@@ -18,3 +18,6 @@
 **Semana 6:**
 * 6.4. Extracción de líneas con algoritmo de Canny.
 
+**Semana 7:**
+* 7.2. Algoritmos de extracción de características.
+
